@@ -26,10 +26,10 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-// You are on the MOODLE_37_STABLE branch.  Do NOT update the version
+// You are on the MOODLE_38_STABLE branch.  Do NOT update the version
 // branching date rather update the release increment.
-$plugin->version        = 2019073101;
-$plugin->release        = '3.7 (Build: 2019073101)';
+$plugin->version        = 2020052000;
+$plugin->release        = '3.8 (Build: 2020052000)';
 $plugin->maturity       = MATURITY_STABLE;
-$plugin->requires       = 2019051100;
+$plugin->requires       = 2019111800;
 $plugin->component      = 'filter_ensemble';
